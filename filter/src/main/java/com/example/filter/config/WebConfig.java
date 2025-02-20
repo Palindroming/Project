@@ -16,7 +16,7 @@
 
         @Override
         public void addInterceptors(InterceptorRegistry registry) {
-            registry.addInterceptor(openAPIInteceptor)
-                    .addPathPatterns("/**");
+//            registry.addInterceptor(openAPIInteceptor)
+//                    .addPathPatterns("/**");
         }
     }
